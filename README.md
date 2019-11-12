@@ -1,3 +1,3 @@
-create-react-app recipe
-cd recipe
+create-react-app recipe,
+cd recipe,
 npm start
