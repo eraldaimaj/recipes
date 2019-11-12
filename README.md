@@ -1,3 +1,3 @@
-create -react-app recipe to create node_modules
+create-react-app recipe
 cd recipe
 npm start
